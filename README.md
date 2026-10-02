@@ -24,7 +24,7 @@ Reproducible mini-project for SQL, Power BI, KPI monitoring, and incident analys
 ### Industrial Energy Dispatch
 24-hour industrial energy optimization in Python using MILP, including CHP, boiler, PV, battery storage, startup costs, ramping and piecewise-linear efficiency curves
 
-[View repository](industrial-energy-dispatch)
+[View repository](https://github.com/smota-git/industrial-energy-dispatch)
 
 ### Superalgebra Decomposer
 C++ implementation of a symbolic rewriting algorithm for polynomial expressions over sl(3)
