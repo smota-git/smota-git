@@ -16,6 +16,11 @@ Credit-risk analysis and model development in R, including univariate analysis, 
 
 [View repository](https://github.com/smota-git/credit-risk-scorecard)
 
+### Mini Corporate Bond Pricer
+A compact Python project illustrating the basic mechanics of fixed-income pricing and credit-risk-sensitive bond valuation
+
+[View repository](https://github.com/smota-git/mini-corporate-bond-pricer)
+
 ### Automated Warehouse Analysis
 Reproducible mini-project for SQL, Power BI, KPI monitoring, and incident analysis in an automated warehouse
 
