@@ -21,15 +21,15 @@ A compact Python project illustrating the basic mechanics of fixed-income pricin
 
 [View repository](https://github.com/smota-git/mini-corporate-bond-pricer)
 
-### Automated Warehouse Analysis
-Reproducible mini-project for SQL, Power BI, KPI monitoring, and incident analysis in an automated warehouse
-
-[View repository](https://github.com/smota-git/automated-warehouse-analysis)
-
 ### Industrial Energy Dispatch
 24-hour industrial energy optimization in Python using MILP, including CHP, boiler, PV, battery storage, startup costs, ramping and piecewise-linear efficiency curves
 
 [View repository](https://github.com/smota-git/industrial-energy-dispatch)
+
+### Automated Warehouse Analysis
+Reproducible mini-project for SQL, Power BI, KPI monitoring, and incident analysis in an automated warehouse
+
+[View repository](https://github.com/smota-git/automated-warehouse-analysis)
 
 ### Superalgebra Decomposer
 C++ implementation of a symbolic rewriting algorithm for polynomial expressions over sl(3)
